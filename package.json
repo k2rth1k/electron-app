@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/k2rth1k/electron-app/issues"
   },
-  "homepage": "https://github.com/k2rth1k/electron-app#readme"
+  "homepage": "https://github.com/k2rth1k/electron-app#readme",
+  "devDependencies": {
+    "electron": "^9.2.1"
+  }
 }
