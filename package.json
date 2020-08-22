@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/k2rth1k/electron-app#readme",
   "devDependencies": {
     "electron": "^9.2.1"
+  },
+  "dependencies": {
+    "custom-electron-titlebar": "^3.2.4"
   }
 }
